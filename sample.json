@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "id":1,
+      "name": "Madan Lal Choudhary",
+      "age": "20",
+      "class": "Msc",
+      "interests": "Reading Books , watching TV especially NEWS."
+    },
+    {
+      "id":2,
+      "name": "Simran Choudhary",
+      "age": "24",
+      "class": "M.E.",
+      "interests": "Playing,Travelling ,etc."
+    },
+    {
+      "id":3,
+      "name": "Rishita Choudhary",
+      "age": "14",
+      "class": "8",
+      "interests": "Listening punjabi songs and dancing."
+    },
+    {
+      "id":4,
+      "name": "Sachin Choudhary",
+      "age": "23",
+      "class": "B.E",
+      "interests": "Chilling with friends , roaming, watching holywood series"
+    }
+  ]
+}
